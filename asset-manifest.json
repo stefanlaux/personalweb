@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stefan-laux.com/static/css/main.d4953554.css",
+    "main.js": "/stefan-laux.com/static/js/main.d7c9b6b0.js",
+    "static/js/787.fd7cac02.chunk.js": "/stefan-laux.com/static/js/787.fd7cac02.chunk.js",
+    "index.html": "/stefan-laux.com/index.html",
+    "main.d4953554.css.map": "/stefan-laux.com/static/css/main.d4953554.css.map",
+    "main.d7c9b6b0.js.map": "/stefan-laux.com/static/js/main.d7c9b6b0.js.map",
+    "787.fd7cac02.chunk.js.map": "/stefan-laux.com/static/js/787.fd7cac02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4953554.css",
+    "static/js/main.d7c9b6b0.js"
+  ]
+}
