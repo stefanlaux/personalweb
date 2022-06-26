@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/stefan-laux.com/static/css/main.b2d6a19a.css",
-    "main.js": "/stefan-laux.com/static/js/main.8a317834.js",
+    "main.css": "/stefan-laux.com/static/css/main.2ae19730.css",
+    "main.js": "/stefan-laux.com/static/js/main.7343bd3a.js",
     "static/js/787.fd7cac02.chunk.js": "/stefan-laux.com/static/js/787.fd7cac02.chunk.js",
     "index.html": "/stefan-laux.com/index.html",
-    "main.b2d6a19a.css.map": "/stefan-laux.com/static/css/main.b2d6a19a.css.map",
-    "main.8a317834.js.map": "/stefan-laux.com/static/js/main.8a317834.js.map",
+    "main.2ae19730.css.map": "/stefan-laux.com/static/css/main.2ae19730.css.map",
+    "main.7343bd3a.js.map": "/stefan-laux.com/static/js/main.7343bd3a.js.map",
     "787.fd7cac02.chunk.js.map": "/stefan-laux.com/static/js/787.fd7cac02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d6a19a.css",
-    "static/js/main.8a317834.js"
+    "static/css/main.2ae19730.css",
+    "static/js/main.7343bd3a.js"
   ]
 }
